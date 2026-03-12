@@ -50,3 +50,41 @@ Some results explored in the notebooks:
 ---
 
 # Repository Structure
+docs/ -> theory and notes
+notebooks/ -> experiments
+src/ -> reusable code
+results/ -> figures
+
+
+---
+
+# Example Notebooks
+
+- Market state detection
+- Volatility regime modeling
+- State transition analysis
+- Strategy behavior under regimes
+
+---
+
+# Future Work
+
+Possible extensions:
+
+- Order flow regimes
+- liquidity state detection
+- agent-based simulations
+- regime dependent portfolio optimization
+
+---
+
+# Motivation
+
+Systematic trading systems implicitly assume stationary markets.  
+However financial markets are **non-stationary systems that transition between structural states**.
+
+Understanding and modeling these states is essential for robust strategies.
+
+---
+
+Author: Mark Brezina
