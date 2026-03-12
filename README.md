@@ -50,10 +50,10 @@ Some results explored in the notebooks:
 ---
 
 # Repository Structure
-docs/ -> theory and notes
-notebooks/ -> experiments
-src/ -> reusable code
-results/ -> figures
+docs -> theory and notes \
+notebooks -> experiments \
+src -> reusable code \
+results -> figures
 
 
 ---
